@@ -29,3 +29,4 @@ var x = maxGap(1024)
 
 print("The Maximum gap is \(x)")
 
+4
